@@ -11,44 +11,36 @@ It is now possible to use the new webpage to filter on multiple criteria.
 
 As illustrated below we can use the date to filter the results and see the sightings for a specific date. The snapshot below shows the results sorted by date (1/1/2010).
 
-Student Note: Seeing some issues with the filtering. Will resubmit after debugging further.
 
 ![](Resources/Filter-by-Date.PNG)
 
 ### Filter by City
 
-As illustrated below we can use the date to filter the results and see the sightings for a specific City. The snapshot below shows the results filtered by a specific city (Benton).
+As illustrated below we can use the date to filter the results and see the sightings for a specific City. The snapshot below shows the results filtered by a specific city.
 
 ![](Resources/Filter-by-City.PNG)
 
-Student Note: Seeing some issues with the filtering. Will resubmit after debugging further.
 
 ### Filter by State
 
-As illustrated below we can use the date to filter the results and see the sightings for a specific State. The snapshot below shows the results filtered by a specific State (ca).
+As illustrated below we can use the date to filter the results and see the sightings for a specific State. The snapshot below shows the results filtered by a specific State.
 
 ![](Resources/Filter-by-State.PNG)
-
-Student Note: Seeing some issues with the filtering. Will resubmit after debugging further.
 
 
 ### Filter by Country
 
-As illustrated below we can use the date to filter the results and see the sightings for a specific country. The snapshot below shows the results filtered by a specific country (us)
+As illustrated below we can use the date to filter the results and see the sightings for a specific country. The snapshot below shows the results filtered by a specific country.
 
 ![](Resources/Filter-by-Country.PNG)
-
-Student Note: Seeing some issues with the filtering. Will resubmit after debugging further.
-
 
 
 ### Filter by Shape
 
-As illustrated below we can use the date to filter the results and see the sightings for a specific country. The snapshot below shows the results filtered by a specific shape (circle)
+As illustrated below we can use the date to filter the results and see the sightings for a specific country. The snapshot below shows the results filtered by a specific shape.
 
 ![](Resources/Filter-by-Shape.PNG)
 
-Student Note: Seeing some issues with the filtering. Will resubmit after debugging further.
 
 ## Summary
 
